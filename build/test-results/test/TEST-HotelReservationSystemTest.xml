@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HotelReservationSystemTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-16T06:46:55" hostname="DESKTOP-9F42HSG" time="0.335">
+  <properties/>
+  <testcase name="HotelReservationSystem_ShouldResturn_Ridgewood()" classname="HotelReservationSystemTest" time="0.283"/>
+  <testcase name="HotelReservationSystem_ShouldResturn_Lakewood()" classname="HotelReservationSystemTest" time="0.048"/>
+  <system-out><![CDATA[week end days
+reward customer
+normal days
+reward customer
+normal days
+reward customer
+Lakewood=240
+Bridgewood=270
+Ridgewood=240
+Ridge wood is cheepest
+Lakewood=240
+Bridgewood=270
+Ridgewood=240
+Ridge wood is cheepest
+week end days
+regular customer
+normal days
+regular customer
+normal days
+regular customer
+Lakewood=550
+Bridgewood=650
+Ridgewood=830
+Lake wood is cheepest
+Lakewood=550
+Bridgewood=650
+Ridgewood=830
+Lake wood is cheepest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
